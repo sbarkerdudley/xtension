@@ -1,2 +1,3 @@
-# xtension
-A browser extension to-be
+# Xtension
+
+An experiment with WebExtensions API.
